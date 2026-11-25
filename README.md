@@ -28,6 +28,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
@@ -55,6 +56,7 @@ My leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Recursion
 |  |

@@ -19,6 +19,7 @@ My leetcode solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -44,4 +45,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/1952-three-divisors) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -31,6 +32,7 @@ My leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Enumeration
@@ -62,6 +64,7 @@ My leetcode solutions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |

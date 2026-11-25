@@ -13,6 +13,7 @@ My leetcode solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1952-three-divisors](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -56,6 +57,7 @@ My leetcode solutions
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

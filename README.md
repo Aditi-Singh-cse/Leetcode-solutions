@@ -6,6 +6,7 @@ My leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -20,6 +21,7 @@ My leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |

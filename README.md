@@ -30,6 +30,7 @@ My leetcode solutions
 | [0001-two-sum](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
@@ -75,4 +76,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

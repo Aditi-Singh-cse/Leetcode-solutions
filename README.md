@@ -11,6 +11,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [2235-add-two-integers](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |

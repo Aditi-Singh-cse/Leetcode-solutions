@@ -33,6 +33,7 @@ My leetcode solutions
 | [0014-longest-common-prefix](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Enumeration

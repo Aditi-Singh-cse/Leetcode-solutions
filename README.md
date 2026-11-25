@@ -33,6 +33,7 @@ My leetcode solutions
 | [0014-longest-common-prefix](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0136-single-number) |
@@ -66,6 +67,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Recursion
@@ -106,4 +108,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

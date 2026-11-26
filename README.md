@@ -41,6 +41,7 @@ My leetcode solutions
 | [0136-single-number](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0941-valid-mountain-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0941-valid-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
@@ -120,4 +121,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0035-search-insert-position) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

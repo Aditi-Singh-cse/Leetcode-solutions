@@ -8,6 +8,7 @@ My leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ My leetcode solutions
 | [0136-single-number](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0941-valid-mountain-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Aditi-Singh-cse/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
